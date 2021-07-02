@@ -7,7 +7,8 @@ namespace LogicalPrograms
         static void Main(string[] args)
         {
             //FibonacciSeries.ReadInput();
-            perfectNumber.PerfectNumber();
+            //perfectNumber.PerfectNumber();
+            PrimeNumber.CheckPrimeNumber();
             Console.ReadLine();
         }
     }
