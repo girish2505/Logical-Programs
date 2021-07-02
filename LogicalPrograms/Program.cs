@@ -10,7 +10,8 @@ namespace LogicalPrograms
             //perfectNumber.PerfectNumber();
             //PrimeNumber.CheckPrimeNumber();
             //ReverseANumber.ReverseNumber();
-            CouponNumbers.GenerateCoupon();
+            //CouponNumbers.GenerateCoupon();
+            StopWatch.ReadInput();
             Console.ReadLine();
         }
     }
