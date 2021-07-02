@@ -9,7 +9,8 @@ namespace LogicalPrograms
             //FibonacciSeries.ReadInput();
             //perfectNumber.PerfectNumber();
             //PrimeNumber.CheckPrimeNumber();
-            ReverseANumber.ReverseNumber();
+            //ReverseANumber.ReverseNumber();
+            CouponNumbers.GenerateCoupon();
             Console.ReadLine();
         }
     }
