@@ -8,7 +8,8 @@ namespace LogicalPrograms
         {
             //FibonacciSeries.ReadInput();
             //perfectNumber.PerfectNumber();
-            PrimeNumber.CheckPrimeNumber();
+            //PrimeNumber.CheckPrimeNumber();
+            ReverseANumber.ReverseNumber();
             Console.ReadLine();
         }
     }

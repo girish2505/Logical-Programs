@@ -17,9 +17,8 @@ namespace LogicalPrograms
             }
             else
             {
-                Console.WriteLine(" is  a prime number", number);
+                Console.WriteLine(number + " is  a prime number");
             }
-            Console.Read();
         }
 
         private static int Check_Prime(int number)
